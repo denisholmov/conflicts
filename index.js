@@ -5,3 +5,6 @@ const sum = (a, b) => {
 const substruction = (a, b)=>{
     return a-b;
 }
+const multypa = (a, b) => {
+return a + b;
+}
